@@ -6,7 +6,7 @@ function Home() {
     <div>
       <img
         className="absolute right-0"
-        src="/Ellipse 9.png"
+        src="/src/assets/Ellipse 9.png"
         alt=""
         width={250}
       />
@@ -31,12 +31,12 @@ function Home() {
           </div>
         </div>
         <div className="relative p-8 left-22 right-1">
-          <img src="/Frame 16.png" alt="" width={450} />
+          <img src="/src/assets/Frame 16.png" alt="" width={450} />
         </div>
       </div>
       <div className="pl-48 mt-32 flex">
         <div>
-          <img src="/Group 3.png" alt="" width={800} />
+          <img src="/src/assets/Group 3.png" alt="" width={800} />
         </div>
         <div className="p-16">
           <p className="font-bold text-4xl">
@@ -69,7 +69,7 @@ function Home() {
           <p>Veg</p>
         </div>
         <div className="mt-10 ">
-          <img src="/Frame 24.png" alt=""  />
+          <img src="src/assets/Frame 24.png" alt=""  />
         </div>
         <div className="flex justify-center">
           <div className="bg-green-900 w-46 p-3 text-white rounded-3xl text-center mt-8 ">
