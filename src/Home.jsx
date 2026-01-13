@@ -109,7 +109,7 @@ function Home() {
           </p>
         </div>
         <div>
-          <img src="/src/assets/Rectangle 8.png" alt="" width={800} />
+          <img src="/Rectangle 8.png" alt="" width={800} />
         </div>
       </div>
     </div>
